@@ -1,0 +1,3 @@
+testName,email,password,expected
+Valid login,valid.user@example.invalid,REPLACE_WITH_TEST_PASSWORD,success
+Invalid login,invalid.user@example.invalid,INVALID_TEST_PASSWORD,failure

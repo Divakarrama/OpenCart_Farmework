@@ -1,0 +1,14 @@
+[
+  {
+    "testName": "Valid login",
+    "email": "valid.user@example.invalid",
+    "password": "REPLACE_WITH_TEST_PASSWORD",
+    "expected": "success"
+  },
+  {
+    "testName": "Invalid login",
+    "email": "invalid.user@example.invalid",
+    "password": "INVALID_TEST_PASSWORD",
+    "expected": "failure"
+  }
+]
