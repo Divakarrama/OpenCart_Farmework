@@ -1,0 +1,11 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","596","test_product_search","tests","2026-11-11","passed","2026-11-11","","test_product_search","",""
+"","7471","test_user_registration","tests","2026-11-11","failed","2026-11-11","","test_user_registration","",""
+"","6039","test_invalid_user_login","tests","2026-11-11","passed","2026-11-11","","test_login","",""
+"","8759","test_valid_user_login","tests","2026-11-11","failed","2026-11-11","","test_login","",""
+"
+Automated Test Case: Verify that a logged-in user can successfully log out of the application.
+","3841","test_user_logout","tests","2026-11-11","failed","2026-11-11","","test_user_logout","",""
+"
+Automated Test Case: Verify user can search and add a product to the cart.
+","1470","test_add_product_to_cart","tests","2026-11-11","passed","2026-11-11","","test_add_product_to_cart","",""
